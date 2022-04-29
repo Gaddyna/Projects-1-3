@@ -13,4 +13,4 @@ Description: Utilzing Python Projects and creating mini programs for each Librar
 Project #3
 https://github.com/Gaddyna/Project-3.git
 
-Description: My own program on how technology can help NJ residents by
+Description: The above python code takes the price and percentage of discount as input from the user and then calculates the discount amount.
