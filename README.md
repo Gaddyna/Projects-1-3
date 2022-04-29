@@ -8,7 +8,7 @@ Description: My own creation of a Virtual Scrabble Game
 Project #2
 https://github.com/Gaddyna/Project-2.git
 
-Description: Utilzing Python Projects and creating mini programs for each Library (Pygame, NumPy, and Scikit-Learn)
+Description: Utilzing Python Libraries and creating mini programs for each Library (Pygame, NumPy, and Scikit-Learn)
 
 Project #3
 https://github.com/Gaddyna/Project-3.git
